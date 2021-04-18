@@ -9,6 +9,7 @@ public class Running {
 		driver.get("https://way2automation.usefedora.com/courses/75164/lectures/12091180");
 		System.out.println(driver.getTitle());
 		driver.close();
+		//Hello User
 	}
 
 }
